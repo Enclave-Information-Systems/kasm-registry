@@ -4,10 +4,10 @@ const nextConfig = {
   output: 'export',
   distDir: '../public',
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
+    name: 'Enclave Information Systems',
+    description: 'The Kasm supported workspaces Repo for Enclave Information Systems.',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
+    listUrl: 'https://enclave-information-systems.github.io/kasm-registry/',
     contactUrl: 'https://kasmweb.com/support',
   },
   reactStrictMode: true,
